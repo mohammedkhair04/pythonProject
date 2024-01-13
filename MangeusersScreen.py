@@ -1,3 +1,5 @@
+# This code was written by Ahmed Abu-Awwad 202210704
+
 from tkinter import *
 import HeadScreens
 import MainScreen
